@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 https://steamcommunity.com/id/NickNdL777/ 🔥
 #### Nickname Valorant, fortnite, BF1 : NdLxX 💥
 #### Nickname Lol : Narakumi ☄️
-#### Name on Discord : NdL#9777
+#### Name on Discord : NdL#9777 ⚙️
+#### My spotify : Nicollas Di Leo https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i?si=BH_SQSS0Q6KoeRa85zGBow 🎧
 
 #### A vida me ensinou a nunca desistir. Nem ganhar, nem perder mas procurar evoluir. 🎼
 
