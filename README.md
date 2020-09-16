@@ -1,4 +1,4 @@
-### Salve 
+### programming is awesome
 
 <!--
 **NicollasDev/NicollasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-https://camo.githubusercontent.com/882d24d21a6cd75aece9fa4509dec3a217dee9db/68747470733a2f2f692e696d6775722e636f6d2f565079734e4c542e676966
-
 
