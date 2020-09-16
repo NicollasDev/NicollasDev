@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 https://steamcommunity.com/id/NickNdL777/ 🔥
 #### Nickname Valorant, fortnite, BF1 : NdLxX 💥
 #### Nickname Lol : Narakumi ☄️
+#### Name on Discord : NdL#9777
 
 #### A vida me ensinou a nunca desistir. Nem ganhar, nem perder mas procurar evoluir. 🎼
 
