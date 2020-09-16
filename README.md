@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://img.ibxk.com.br/2017/04/25/25163400767254.gif)
 
+#### Meu nome é Nicollas e atualmente estou cursando desenvolvimento de sistemas 👾
+#### Gosto de jogar jogos competitivos, link da steam junto com nomes no jogos abaixo 👻
+https://steamcommunity.com/id/NickNdL777/
+#### Nome Valorant, fortnite, bf1 : NdLxX
+#### Nome no Lol : Narakumi
+
 
