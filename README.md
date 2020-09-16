@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.ibxk.com.br/2017/04/25/25163400767254.gif)
+![Droga é o braia](https://img.ibxk.com.br/2017/04/25/25163400767254.gif)
 
 #### Meu nome é Nicollas e atualmente estou cursando desenvolvimento de sistemas 👾
 #### Gosto de jogar jogos competitivos, link da steam junto com nome no jogos abaixo 👻
