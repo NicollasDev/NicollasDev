@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 #### Meu nome é Nicollas e atualmente estou cursando desenvolvimento de sistemas 👾
 #### Gosto de jogar jogos competitivos, link da steam junto com nomes no jogos abaixo 👻
-https://steamcommunity.com/id/NickNdL777/
-#### Nome Valorant, fortnite, bf1 : NdLxX
-#### Nome no Lol : Narakumi
+https://steamcommunity.com/id/NickNdL777/ 🔥
+#### Nickname Valorant, fortnite, BF1 : NdLxX 💥
+#### Nickname Lol : Narakumi ☄️
+
+#### A vida me ensinou a nunca desistir. Nem ganhar, nem perder mas procurar evoluir. 🎼
 
 
