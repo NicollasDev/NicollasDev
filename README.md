@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://i.pinimg.com/originals/c3/16/69/c31669646c8818f7e33c7f52b6b803a2.gif)
