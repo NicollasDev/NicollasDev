@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![Droga é o braia](https://img.ibxk.com.br/2017/04/25/25163400767254.gif)
 
-#### Meu nome é Nicollas e atualmente estou cursando desenvolvimento de sistemas 👾
-#### Gosto de jogar jogos competitivos, link da steam junto com nome no jogos abaixo 👻
+#### My name is Nicollas and I am currently studying systems development 👾
+#### I like to play competitive games, steam link along with name in the games below 👻
 https://steamcommunity.com/id/NickNdL777/ 🔥
 #### Nickname Valorant, fortnite, BF1 : NdLxX 💥
 #### Nickname Lol : Narakumi ☄️
