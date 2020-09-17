@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Droga é o braia](https://img.ibxk.com.br/2017/04/25/25163400767254.gif)
+![Jim carry](https://pipocamusical.com.br/wp-content/uploads/2014/01/jim-carrey-addicted.gif)
 
 #### My name is Nicollas and I am currently studying systems development 👾
 #### I like to play competitive games, steam link along with name in the games below 👻
