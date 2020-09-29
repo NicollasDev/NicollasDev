@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jim carry](https://pipocamusical.com.br/wp-content/uploads/2014/01/jim-carrey-addicted.gif)
+![Progamação](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdevtranslate%2Fcomo-se-tornar-um-super-ninja-aprendiz-de-programa%25C3%25A7%25C3%25A3o-b51f2488f96c&psig=AOvVaw068XZFymgzvAoHVr6CSwG-&ust=1601484318406000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDs85HojuwCFQAAAAAdAAAAABAY)
 
 #### My name is Nicollas and I am currently studying systems development 👾
 #### I like to play competitive games, steam link along with name in the games below 👻
