@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Progamação](https://miro.medium.com/max/1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif)
+![Progamação](https://giffiles.alphacoders.com/140/14018.gif)
 
 #### My name is Nicollas and I am currently studying systems development 👾
 #### I like to play competitive games, steam link along with name in the games below 👻
