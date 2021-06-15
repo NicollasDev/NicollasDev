@@ -2,8 +2,9 @@
 
 ![Programação](https://vidadeprogramador.com.br/axethemes/vdp/images/logo-vdp.png)
 
-<a href = "mailto: nicollasdileo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nicollasdileo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollasdileo/)](https://www.linkedin.com/in/nicollasdileo/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)](https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicollasDev&label=Profile%20views&color=0e75b6&style=flat" alt="NicollasDev" /> </p>
 
 
