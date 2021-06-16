@@ -19,13 +19,16 @@
 
 ### My name is Nicollas Di Leo, I am 17 years old. I entered the world of programming by chance, and today I'm graduating in technician, I intend to become even better in this area and become an excellent professional.
 
+###### Curriculum available on linkedin 🧠
+
 #### I'm currently finishing the systems development technician at SENAI 💻
 #### I'm currently finishing SESI school 🎓
 #### Name on Discord : NdL#9325 📞
 
 ### Cursos curtos 
-###### Arte Vetorial Saga 🔥
-###### Brigadista Escolar Sesi 👨🏻‍🚒 
+##### Arte Vetorial Saga 🔥
+##### Brigadista Escolar Sesi 👨🏻‍🚒 
+
 
 ## Git Hub 
 <div>
