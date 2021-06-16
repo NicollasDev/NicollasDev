@@ -2,7 +2,7 @@
 
 ![Programação](https://vidadeprogramador.com.br/axethemes/vdp/images/logo-vdp.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollasdileo/)](https://www.linkedin.com/in/nicollasdileo/) [![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)](https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicollasdileo/)](https://www.linkedin.com/in/nicollasdileo/) 
 [![Gmail Badge](https://img.shields.io/badge/-nicollas.dileo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicollas.dileo@gmail.com)](mailto:nicollas.dileo@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicollasDev&label=Profile%20views&color=0e75b6&style=flat" alt="NicollasDev" /> </p> 
 
@@ -33,6 +33,8 @@
 ### Cursos curtos 
 ##### Arte Vetorial Saga 🔥
 ##### Brigadista Escolar Sesi 👨🏻‍🚒 
+
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)](https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)
 
 
 ## Git Hub 
