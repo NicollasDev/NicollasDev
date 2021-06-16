@@ -15,15 +15,15 @@
  
 </div>
 
-### Us - My name is Nicollas Di Leo. I entered the world of programming by chance, and today I'm graduating in technical, I intend to become even better in this area and become an excellent professional.
-### Br - Meu nome é Nicollas Di Leo. Entrei no mundo da programação por acaso, e hoje estou me formando no técnico, pretendo me tornar ainda melhor nessa área e me tornar um excelente profissional.
-
 ## Sobre
-##### I'm currently finishing the systems development technician at SENAI 💻
-##### I'm currently finishing SESI school 🎓
-##### Name on Discord : NdL#9325 📞
 
-#### Cursos curtos 
+### My name is Nicollas Di Leo, I am 17 years old. I entered the world of programming by chance, and today I'm graduating in technician, I intend to become even better in this area and become an excellent professional.
+
+#### I'm currently finishing the systems development technician at SENAI 💻
+#### I'm currently finishing SESI school 🎓
+#### Name on Discord : NdL#9325 📞
+
+### Cursos curtos 
 ###### Arte Vetorial Saga 🔥
 ###### Brigadista Escolar Sesi 👨🏻‍🚒 
 
