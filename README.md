@@ -26,7 +26,7 @@
 
 ###### Curriculum available on linkedin 🧠
 
-#### I'm currently finishing the systems development technician at SENAI 💻
+#### I currently finished the systems development technician course at SENAI 💻
 #### I'm currently finishing SESI school 🎓
 #### Name on Discord : NdL#9325 📞
 
