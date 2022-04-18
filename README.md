@@ -22,7 +22,7 @@
 
 ## Sobre
 
-### My name is Nicollas Di Leo, I am 17 years old. I entered the world of programming by chance, and today I'm graduating in technician, I intend to become even better in this area and become an excellent professional.
+### My name is Nicollas Di Leo, I am 18 years old. I entered the world of programming by chance, and today I'm graduating in technician, I intend to become even better in this area and become an excellent professional.
 
 ###### Curriculum available on linkedin 🧠
 
