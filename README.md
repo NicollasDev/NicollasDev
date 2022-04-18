@@ -33,9 +33,6 @@
 ##### Arte Vetorial Saga 🔥
 ##### Brigadista Escolar Sesi 👨🏻‍🚒 
 
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-darkgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)](https://open.spotify.com/user/21b5ctjch2zgtrn4gszcgmg3i)
-
-
 ## Git Hub 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollasDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
