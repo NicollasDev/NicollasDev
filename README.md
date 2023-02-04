@@ -22,7 +22,7 @@
 
 ## Sobre
 
-### Meu nome é Nicollas Di Leo, tenho 18 anos. Entrei no mundo da programação por acaso, e hoje estou formado no técnico, pretendo me tornar ainda melhor nessa área e me tornar um excelente profissional.
+### Meu nome é Nicollas Di Leo, tenho 19 anos. Entrei no mundo da programação por acaso, e hoje estou formado no técnico, pretendo me tornar ainda melhor nessa área e me tornar um excelente profissional.
 
 ###### Currículo disponivel no linkedin 🧠
 
